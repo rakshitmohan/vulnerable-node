@@ -1,4 +1,4 @@
-Vulnerable Noded
+Vulnerable Nodeds
 ===============
 
 ![Logo](https://raw.githubusercontent.com/cr0hn/vulnerable-node/master/images/logo-small.png)
